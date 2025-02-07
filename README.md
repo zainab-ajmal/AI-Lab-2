@@ -1,0 +1,1 @@
+This repository contains the solution for Lab 2 of Artificial Intelligence course, which focuses on using NumPy for numerical computing and Matplotlib for data visualization. The tasks include creating NumPy arrays, performing slicing operations, plotting different types of graphs, processing genome sequences, manipulating images, and analyzing the Iris dataset.
